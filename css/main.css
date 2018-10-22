@@ -1,0 +1,20 @@
+
+body {
+    background-color: lightblue;
+}
+.container{
+    background-image: url("/assets/DSC_5208.jpg");
+    background-position:center;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+    width: auto;
+    height: 400px;;
+    background-size: cover;
+    overflow: hidden;
+    margin-bottom: 0px;      
+}
+
+h2{color: blueviolet;
+    margin-left: 40px;
+    background-image: url("assets/DSC_5208.jpg");
+} 
